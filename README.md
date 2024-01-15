@@ -7,7 +7,7 @@
 - ### This is subheading
 - _This is italian_
 - **This is bold**
-- ...and this is a [link](https://www.ggogle.com)
+- ...and this is a [link](https://www.google.com)
 
 <!---
 absolutedelimiter/absolutedelimiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
